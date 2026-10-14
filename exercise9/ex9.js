@@ -2,7 +2,7 @@ let car = {
     maka: "1999-1-8 ",
     model: "luxery",
     year: "2025-3-15",
-    star:function(){
+    star: function () {
         console.log("The car has started")
     }
 }
