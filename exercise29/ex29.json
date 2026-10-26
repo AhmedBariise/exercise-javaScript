@@ -1,0 +1,53 @@
+[
+    {
+        "id": 1,
+        "name": "ahmed",
+        "city": "Hiliwaa",
+        "order": [
+            {
+                "id": 1,
+                "product": "computer",
+                "price": "$200"
+            },
+            {
+                "id": 2,
+                "product": "mouse",
+                "price": "$2"
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "name": "Asad",
+        "city": "hodan",
+        "order": [
+            {
+                "id": 1,
+                "product": "mobile",
+                "price": "$150"
+            },
+            {
+                "id": 2,
+                "product": "watch",
+                "price": "$5"
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "name": "mc hamuada",
+        "city": "afgooye",
+        "order": [
+            {
+                "id": 1,
+                "product": "iphone",
+                "price": "$1300"
+            },
+            {
+                "id": 2,
+                "product": "laptop",
+                "price": "$780"
+            }
+        ]
+    }
+]
